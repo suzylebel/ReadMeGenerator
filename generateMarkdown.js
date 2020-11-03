@@ -6,14 +6,14 @@ const generateMarkdown = (answer) => {
   *View the [Github page](https://github.com/${answer.github}/${answer.projectname})
 
 ## Table Of Contents
-    * [About the Project- ${answer.projectname}](#About-the-Project)
-    * [Getting Started](#Getting-Started)
-    * [Usage](#Usage)
-    * [Tests](#Tests)
-    * [Questions/Contribute](#Questions/Contribute) 
-    * [License](#License) 
-    * [Contact](#Contact)
-    * [Acknowledgements](#Acknowledgements)
+    1. [About the Project- ${answer.projectname}](#About-the-Project)
+    2. [Getting Started](#Getting-Started)
+    3. [Usage](#Usage)
+    4. [Tests](#Tests)
+    5. [Questions/Contribute](#Questions/Contribute) 
+    6. [License](#License) 
+    7. [Contact](#Contact)
+    8. [Acknowledgements](#Acknowledgements)
 
 ## About the Project 
 
@@ -25,7 +25,7 @@ const generateMarkdown = (answer) => {
 ## Usage
 
 Languages I used for this project are: 
-  *${answer.language}
+  * ${answer.language}
 
 ## Tests
   
@@ -41,7 +41,7 @@ ${answer.license}
 ## Acknowledgements
 
 ## Contact
-Feel free to contact me at: ${answer.email}
+*Feel free to contact me at: ${answer.email}*
 Project Link:(https://github.com/${answer.github}/${answer.projectname})
 
   

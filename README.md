@@ -1,17 +1,17 @@
-# [Weather-Forecast]()
+# [weather-forecast]()
   
-  *Explore the [Deployed Weather-Forecast](https://suzylebel.github.io/Weather-Forecast/)
-  *View the [Github page](https://github.com/suzylebel/Weather-Forecast)
+  *Explore the [Deployed weather-forecast](https://suzylebel.github.io/weather-forecast/)
+  *View the [Github page](https://github.com/suzylebel/weather-forecast)
 
 ## Table Of Contents
-    * [About the Project- Weather-Forecast](#About-the-Project)
-    * [Getting Started](#Getting-Started)
-    * [Usage](#Usage)
-    * [Tests](#Tests)
-    * [Questions/Contribute](#Questions/Contribute) 
-    * [License](#License) 
-    * [Contact](#Contact)
-    * [Acknowledgements](#Acknowledgements)
+    1. [About the Project- weather-forecast](#About-the-Project)
+    2. [Getting Started](#Getting-Started)
+    3. [Usage](#Usage)
+    4. [Tests](#Tests)
+    5. [Questions/Contribute](#Questions/Contribute) 
+    6. [License](#License) 
+    7. [Contact](#Contact)
+    8. [Acknowledgements](#Acknowledgements)
 
 ## About the Project 
 
@@ -23,7 +23,7 @@
 ## Usage
 
 Languages I used for this project are: 
-  *sfd
+  * Html, JSS, HTML, Bootstrap
 
 ## Tests
   
@@ -39,8 +39,8 @@ undefined
 ## Acknowledgements
 
 ## Contact
-Feel free to contact me at: suz
-Project Link:(https://github.com/suzylebel/Weather-Forecast)
+*Feel free to contact me at: suzy.lebel@gmail.com*
+Project Link:(https://github.com/suzylebel/weather-forecast)
 
   
   
