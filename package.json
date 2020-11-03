@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/suzylebel/ReadMeGenerator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "swig": "^1.4.2",
+    "util": "^0.12.3"
   }
 }
