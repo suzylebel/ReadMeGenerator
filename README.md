@@ -1,10 +1,10 @@
-# [weather-forecast]()
+# [Weather-Forecast]()
   
-  *Explore the [Deployed weather-forecast](https://suzylebel.github.io/weather-forecast/)
-  *View the [Github page](https://github.com/suzylebel/weather-forecast)
+  *Explore the [Deployed Weather-Forecast](https://suzylebel.github.io/Weather-Forecast/)
+  *View the [Github page](https://github.com/suzylebel/Weather-Forecast)
 
 ## Table Of Contents
-    * [About the Project- weather-forecast](#About-the-Project)
+    * [About the Project- Weather-Forecast](#About-the-Project)
     * [Getting Started](#Getting-Started)
     * [Usage](#Usage)
     * [Tests](#Tests)
@@ -23,7 +23,7 @@
 ## Usage
 
 Languages I used for this project are: 
-  *html, css, JS
+  *sfd
 
 ## Tests
   
@@ -39,8 +39,8 @@ undefined
 ## Acknowledgements
 
 ## Contact
-Feel free to contact me at: suzy.lebel@gmail.com
-Project Link:(https://github.com/suzylebel/weather-forecast)
+Feel free to contact me at: suz
+Project Link:(https://github.com/suzylebel/Weather-Forecast)
 
   
   
