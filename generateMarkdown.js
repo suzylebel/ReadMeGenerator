@@ -18,7 +18,16 @@ const generateMarkdown = (answer) => {
 ## About the Project 
 
 ## Getting Started
-  1. Clone the repo 
+  ### Prerequisites
+    * ${answer.dependencies} install
+
+  ### Installation 
+    1. Clone the repo:
+    > git clone (https://github.com/${answer.github}/${answer.projectname}.git) 
+    2. Install packages 
+    > ${answer.dependencies} install
+
+
 
  
 
@@ -30,6 +39,11 @@ Languages I used for this project are:
 ## Tests
   
 ## Questions/Contribute 
+1. Fork the project
+2. Create your own branch 
+3. Commit your changes 
+4. Push to your branch 
+5. Open a pull request for sandbox
 
 
 

@@ -1,10 +1,10 @@
-# [test]()
+# [Password-Generator]()
   
-* Explore the [Deployed test](https://test.github.io/test/)
-* View the [Github page](https://github.com/test/test)
+* Explore the [Deployed Password-Generator](https://suzylebel.github.io/Password-Generator/)
+* View the [Github page](https://github.com/suzylebel/Password-Generator)
 
 ## Table Of Contents
-  1. [About the Project- test](#About-the-Project)
+  1. [About the Project- Password-Generator](#About-the-Project)
   2. [Getting Started](#Getting-Started)
   3. [Roadmap](#Roadmap)
   4. [Tests](#Tests)
@@ -16,33 +16,47 @@
 ## About the Project 
 
 ## Getting Started
-  1. Clone the repo 
+  ### Prerequisites
+    * npm install
+
+  ### Installation 
+    1. Clone the repo:
+    > git clone (https://github.com/suzylebel/Password-Generator.git) 
+    2. Install packages 
+    > npm install
+
+
 
  
 
 ## Roadmap
 
 Languages I used for this project are: 
-    * test
+    * HTML,CSS,Boostrap,API keys
 
 ## Tests
   
 ## Questions/Contribute 
+1. Fork the project
+2. Create your own branch 
+3. Commit your changes 
+4. Push to your branch 
+5. Open a pull request for sandbox
 
 
 
 ## License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  Apache
+  MIT
  
 
 ## Acknowledgements
 
 ## Contact
-*Feel free to contact me at: test*
+*Feel free to contact me at: suzy.lebel@gmail.com*
 
-Project Link:(https://github.com/test/test)
+Project Link:(https://github.com/suzylebel/Password-Generator)
 
   
   

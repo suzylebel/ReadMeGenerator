@@ -30,9 +30,10 @@ const questions = () =>
       message: 'What is your email address?',
     },
     {
-        type: 'input',
+        type: 'checkbox',
         name: 'language',
-        message: 'What frameworks or languages did you use to build the project?',
+        message: 'What frameworks and languages did you use to build the project?',
+        choices: ['HTML','CSS','JS','Boostrap','JQUERY','ajax','API keys'],
       },
     {
       type: 'list',
