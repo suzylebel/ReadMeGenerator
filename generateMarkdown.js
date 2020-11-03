@@ -2,8 +2,8 @@
 const generateMarkdown = (answer) => {
   return `# [${answer.projectname}]()
   
-  *Explore the [Deployed ${answer.projectname}](https://${answer.github}.github.io/${answer.projectname}/)
-  *View the [Github page](https://github.com/${answer.github}/${answer.projectname})
+* Explore the [Deployed ${answer.projectname}](https://${answer.github}.github.io/${answer.projectname}/)
+* View the [Github page](https://github.com/${answer.github}/${answer.projectname})
 
 ## Table Of Contents
   1. [About the Project- ${answer.projectname}](#About-the-Project)
@@ -34,9 +34,10 @@ Languages I used for this project are:
 
 
 ## License
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ${answer.license}
-
+ 
 
 ## Acknowledgements
 
@@ -52,3 +53,15 @@ Project Link:(https://github.com/${answer.github}/${answer.projectname})
 }
 
 module.exports = generateMarkdown;
+
+
+// function licenseBadge() {
+//   let result;
+//   if (answer = 'MIT') {
+//     result = 'link';
+//   } else {
+//     result = 'link';
+//   }
+//   return result;
+// };
+
