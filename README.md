@@ -23,7 +23,7 @@
 ## Usage
 
 Languages I used for this project are: 
-  *HTML, CSS 
+  *html, css, JS
 
 ## Tests
   
