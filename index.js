@@ -28,32 +28,36 @@ const questions = () =>
       type: 'input',
       name: 'email',
       message: 'What is your email address?',
+
+    //   https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript regex link (make sure to put in readme)
+    },
+    {
+      type: 'input',
+      name: 'description',
+      message: 'Please write a brief description of your project',
+
+
     },
     {
         type: 'checkbox',
         name: 'language',
         message: 'What frameworks and languages did you use to build the project?',
-        choices: ['HTML','CSS','JS','Boostrap','JQUERY','ajax','API keys'],
+        choices: ['HTML', 'CSS', 'JS', 'Boostrap', 'JQUERY', 'AJAX', 'API keys'],
       },
     {
       type: 'list',
       name: 'license',
       message: 'What kind of do you want your project to have? ',
-      choices: ["MIT", "Apache", "GPC", "None"]
+      choices: ["MIT", "Apache", "GNU GPL v3","Eclipse Public License 1.0", "None"]
     },
     {
       type: 'input',
       name: 'dependencies',
       message: 'What command should be run to install dependencies?',
     },
-    {
-        type: 'input',
-        name: 'repo',
-        message: 'What does the user need to know about using the repo?',
-      },
       {
         type: 'input',
-        name: 'repo2',
+        name: 'repo',
         message: 'What does the user need to know about contributing to the repo?',
       },
   ]);

@@ -5,7 +5,7 @@
 
 ## Table Of Contents
   1. [About the Project- Password-Generator](#About-the-Project)
-  2. [Getting Started](#Getting-Started)
+  2. [Getting Started](#Getting-Started) 
   3. [Roadmap](#Roadmap)
   4. [Tests](#Tests)
   5. [Questions/Contribute](#Questions/Contribute) 
@@ -15,24 +15,25 @@
 
 ## About the Project 
 
-## Getting Started
-  ### Prerequisites
-    * npm install
+This project is to create a rrandom password based on the user criteria selected! 
 
+## Getting Started
+ 
   ### Installation 
     1. Clone the repo:
-    > git clone (https://github.com/suzylebel/Password-Generator.git) 
+    git clone (https://github.com/suzylebel/Password-Generator.git) 
     2. Install packages 
-    > npm install
+   npm install inquirer 
 
+  ### Github Repo
+  
+  This repo has 2 files.  
 
-
- 
 
 ## Roadmap
 
-Languages I used for this project are: 
-    * HTML,CSS,Boostrap,API keys
+Languages and frameworks used for this project: 
+   HTML,JS
 
 ## Tests
   
@@ -45,16 +46,18 @@ Languages I used for this project are:
 
 
 
-## License
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  MIT
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   This project is under the MIT license.
  
 
 ## Acknowledgements
 
 ## Contact
-*Feel free to contact me at: suzy.lebel@gmail.com*
+* Feel free to contact me at: suzy.lebel@gmail.com*
 
 Project Link:(https://github.com/suzylebel/Password-Generator)
 
