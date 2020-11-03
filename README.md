@@ -1,10 +1,10 @@
-# [weather-forecast]()
+# [Password-Generator]()
   
-  *Explore the [Deployed weather-forecast](https://suzylebel.github.io/weather-forecast/)
-  *View the [Github page](https://github.com/suzylebel/weather-forecast)
+  *Explore the [Deployed Password-Generator](https://suzylebel.github.io/Password-Generator/)
+  *View the [Github page](https://github.com/suzylebel/Password-Generator)
 
 ## Table Of Contents
-    1. [About the Project- weather-forecast](#About-the-Project)
+    1. [About the Project- Password-Generator](#About-the-Project)
     2. [Getting Started](#Getting-Started)
     3. [Usage](#Usage)
     4. [Tests](#Tests)
@@ -23,7 +23,7 @@
 ## Usage
 
 Languages I used for this project are: 
-  * Html, JSS, HTML, Bootstrap
+  * JS, CSS, Bootstrap
 
 ## Tests
   
@@ -33,14 +33,15 @@ Languages I used for this project are:
 
 ## License
 
-undefined
+None
 
 
 ## Acknowledgements
 
 ## Contact
-*Feel free to contact me at: suzy.lebel@gmail.com*
-Project Link:(https://github.com/suzylebel/weather-forecast)
+*Feel free to contact me at: suzy.lebel@gmail.com/suy*
+
+Project Link:(https://github.com/suzylebel/Password-Generator)
 
   
   

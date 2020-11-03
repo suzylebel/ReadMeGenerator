@@ -36,7 +36,7 @@ const questions = () =>
       },
     {
       type: 'list',
-      name: 'licesnse',
+      name: 'license',
       message: 'What kind of do you want your project to have? ',
       choices: ["MIT", "Apache", "GPC", "None"]
     },
