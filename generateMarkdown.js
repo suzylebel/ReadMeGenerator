@@ -44,7 +44,7 @@ ${answer.description}
    npm install ${answer.dependencies}
 
   ### Github Repo
-  
+
   ${answer.repo} 
 
 
@@ -63,9 +63,6 @@ Languages and frameworks used for this project:
 5. Open a pull request for sandbox
 
 
-
-
-
 ## License
 
 ${badgelicense}
@@ -75,7 +72,7 @@ ${badgelicense}
 ## Acknowledgements
 
 ## Contact
-* Feel free to contact me at: ${answer.email}*
+Feel free to contact me at: ${answer.email}
 
 Project Link:(https://github.com/${answer.github}/${answer.projectname})
 

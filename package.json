@@ -1,28 +1,27 @@
 {
   "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "For HW 9",
+  "description": "Readme Generator project for HW9 UW Bootcamp ",
   "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "learning "
+    "test": "npm i "
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/suzylebel/ReadMeGenerator.git"
   },
   "keywords": [
-    "learning"
+    "Project"
   ],
   "author": "Suzy Le Bel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/suzylebel/ReadMeGenerator/issues"
   },
-  "homepage": "https://github.com/suzylebel/ReadMeGenerator#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "inquirer": "^7.3.3",
-    "swig": "^1.4.2",
-    "util": "^0.12.3"
-  }
+  "homepage": "https://github.com/suzylebel/ReadMeGenerator#readme"
 }

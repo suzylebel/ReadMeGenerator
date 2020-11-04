@@ -1,10 +1,10 @@
-# [Password-Generator]()
+# [alsdkfj]()
   
-* Explore the [Deployed Password-Generator](https://suzylebel.github.io/Password-Generator/)
-* View the [Github page](https://github.com/suzylebel/Password-Generator)
+* Explore the [Deployed alsdkfj](https://alsdkfj.github.io/alsdkfj/)
+* View the [Github page](https://github.com/alsdkfj/alsdkfj)
 
 ## Table Of Contents
-  1. [About the Project- Password-Generator](#About-the-Project)
+  1. [About the Project- alsdkfj](#About-the-Project)
   2. [Getting Started](#Getting-Started) 
   3. [Roadmap](#Roadmap)
   4. [Tests](#Tests)
@@ -15,25 +15,25 @@
 
 ## About the Project 
 
-This project is to create a rrandom password based on the user criteria selected! 
+alskdjf
 
 ## Getting Started
  
   ### Installation 
     1. Clone the repo:
-    git clone (https://github.com/suzylebel/Password-Generator.git) 
+    git clone (https://github.com/alsdkfj/alsdkfj.git) 
     2. Install packages 
-   npm install inquirer 
+   npm install sldkfj
 
   ### Github Repo
-  
-  This repo has 2 files.  
+
+  asldkfj 
 
 
 ## Roadmap
 
 Languages and frameworks used for this project: 
-   HTML,JS
+   HTML,JS,Boostrap,AJAX,API keys
 
 ## Tests
   
@@ -45,9 +45,6 @@ Languages and frameworks used for this project:
 5. Open a pull request for sandbox
 
 
-
-
-
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -57,9 +54,9 @@ Languages and frameworks used for this project:
 ## Acknowledgements
 
 ## Contact
-* Feel free to contact me at: suzy.lebel@gmail.com*
+Feel free to contact me at: alsdkjf
 
-Project Link:(https://github.com/suzylebel/Password-Generator)
+Project Link:(https://github.com/alsdkfj/alsdkfj)
 
   
   
