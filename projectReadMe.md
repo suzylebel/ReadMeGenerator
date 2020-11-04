@@ -51,6 +51,21 @@ Here are the prompted questions with repsonses in terminal:
 
 I also played around with the prompt questions using input, checkboxes and lists for users to select from. 
 
+
+
+
+
+
+Here is what the final readme looks like after using the Weather Forecast project. The links work based on user input to create their github and project page links. 
+
+```
+* Explore the [Deployed ${answer.projectname}](https://${answer.github}.github.io/${answer.projectname}/)
+* View the [Github page](https://github.com/${answer.github}/${answer.projectname})
+
+```
+
+![Readme Image](IMAGES/readme.png)
+
 ## Questions/Contribute 
 1. Fork the project
 2. Create your own branch 
