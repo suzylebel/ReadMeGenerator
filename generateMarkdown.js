@@ -39,9 +39,11 @@ ${answer.description}
  
   ### Installation 
     1. Clone the repo:
-    git clone (https://github.com/${answer.github}/${answer.projectname}.git) 
-    2. Install packages 
-   npm install ${answer.dependencies}
+      git clone (https://github.com/${answer.github}/${answer.projectname}.git) 
+    2. Install npm 
+      npm init
+    3. Install packages 
+      npm install ${answer.dependencies}
 
   ### Github Repo
 
@@ -51,6 +53,7 @@ ${answer.description}
 ## Roadmap
 
 Languages and frameworks used for this project: 
+
    ${answer.language}
 
 ## Tests

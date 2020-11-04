@@ -1,10 +1,10 @@
-# [alsdkfj]()
+# [Weather-Forecast]()
   
-* Explore the [Deployed alsdkfj](https://alsdkfj.github.io/alsdkfj/)
-* View the [Github page](https://github.com/alsdkfj/alsdkfj)
+* Explore the [Deployed Weather-Forecast](https://suzylebel.github.io/Weather-Forecast/)
+* View the [Github page](https://github.com/suzylebel/Weather-Forecast)
 
 ## Table Of Contents
-  1. [About the Project- alsdkfj](#About-the-Project)
+  1. [About the Project- Weather-Forecast](#About-the-Project)
   2. [Getting Started](#Getting-Started) 
   3. [Roadmap](#Roadmap)
   4. [Tests](#Tests)
@@ -15,25 +15,25 @@
 
 ## About the Project 
 
-alskdjf
+Check out this awesome weather forecast. When the user selects a city they will get a current weather report as well as a five day report. Add multiple cities and they will be saved to local storage when you refresh the page!
 
 ## Getting Started
  
   ### Installation 
     1. Clone the repo:
-    git clone (https://github.com/alsdkfj/alsdkfj.git) 
+    git clone (https://github.com/suzylebel/Weather-Forecast.git) 
     2. Install packages 
-   npm install sldkfj
+   npm install no dependencies needed
 
   ### Github Repo
 
-  asldkfj 
+  To contribute to the repo please email or do a pull request in github.  
 
 
 ## Roadmap
 
 Languages and frameworks used for this project: 
-   HTML,JS,Boostrap,AJAX,API keys
+   HTML,CSS,JS,Boostrap,JQUERY,AJAX,API keys
 
 ## Tests
   
@@ -54,9 +54,9 @@ Languages and frameworks used for this project:
 ## Acknowledgements
 
 ## Contact
-Feel free to contact me at: alsdkjf
+Feel free to contact me at: suzy.lebel@gmail.com
 
-Project Link:(https://github.com/alsdkfj/alsdkfj)
+Project Link:(https://github.com/suzylebel/Weather-Forecast)
 
   
   

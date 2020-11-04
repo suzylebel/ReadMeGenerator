@@ -36,7 +36,6 @@ const questions = () =>
       name: 'description',
       message: 'Please write a brief description of your project',
 
-
     },
     {
         type: 'checkbox',
